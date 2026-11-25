@@ -1,8 +1,8 @@
 # The AI Agent Apology One-Liner
 
-[![make.fun bounty](https://img.shields.io/badge/bounty-make.fun-ff5c8a)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
-[![node >= 22](https://img.shields.io/badge/node-%3E%3D22-339933)](https://nodejs.org/)
-[![entry: 109 chars](https://img.shields.io/badge/entry-109_chars-4c1d95)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![make.fun · u-kiencx-the-ai-agent-apology-one-liner-cfedd447](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![rank](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/h05meigames/makefun-apology-one-liner/rank.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
+[![reward](https://make.fun/badge/u-kiencx-the-ai-agent-apology-one-liner-cfedd447/h05meigames/makefun-apology-one-liner/reward.svg)](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447?utm_source=github&utm_medium=readme&utm_campaign=u-kiencx-the-ai-agent-apology-one-liner-cfedd447)
 
 Entry for the make.fun bounty **[The AI Agent Apology One-Liner](https://make.fun/bounty/u-kiencx-the-ai-agent-apology-one-liner-cfedd447)** — one short line an AI agent sends its human right after accidentally doing something it should not have.
 
